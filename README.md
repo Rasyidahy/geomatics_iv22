@@ -5,4 +5,4 @@ For this assessment, i use open source tool libpostal to pare out tructured info
 # Installation (Windows)
 For window, i install the MSys2 from http://msys2.org. MSYS2 ("minimal system 2") is a software distribution and a development platform for Microsoft Windows, based on Mingw-w64 and Cygwin, that helps to deploy code from the Unix world on Windows. It plays the same role the old MSYS did in MinGW.
 # Bindings
-Libpostal is designed to be used by higher-level languages. For this assessment, i choose to binding libpostal with Python languages.
+**Libpostal** is designed to be used by higher-level languages. For this assessment, i choose to binding libpostal with Python languages.
