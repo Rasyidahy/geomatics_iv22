@@ -50,3 +50,13 @@ pip install postal
 This example parse results are taken from the interactive address_parser program that builds with libpostal when run `make` 
 
 ![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/3ef6f45714ec6795fe35a016aa78344430c10982/one.jpg)
+
+# Command-line usage (expand)
+After building libpostal:
+
+```
+cd libpostal
+cd src/
+./libpostal "Quatre vingt douze Ave des Champs-Élysées"
+
+```
