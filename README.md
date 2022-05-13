@@ -94,3 +94,15 @@ cd src/
 address_parser is an interactive shell. Just need to type addresses and libpostal will parse them and print the result.
 
 ![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+
+# Assignment
+> **By full address**
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+
+> **By User input can contains incomplete address, mean each address component is optional**
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+
+> **By handle input without comma**
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+
+
