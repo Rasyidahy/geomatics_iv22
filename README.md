@@ -5,7 +5,7 @@ For this assessment, i use open source tool libpostal to pare out tructured info
 # Installation (Windows)
 For window, i install the MSys2 from http://msys2.org. MSYS2 ("minimal system 2") is a software distribution and a development platform for Microsoft Windows, based on Mingw-w64 and Cygwin, that helps to deploy code from the Unix world on Windows. It plays the same role the old MSYS did in MinGW.
 
-Then to build the C library:
+Then to build the C library for libpostal:
 ```
 git clone https://github.com/openvenues/libpostal
  cd libpostal
@@ -32,3 +32,5 @@ pip install postal
 
 # Example of Parsing
 This example parse results are taken from the interactive address_parser program that builds with libpostal when run `make` 
+
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/3ef6f45714ec6795fe35a016aa78344430c10982/one.jpg)
