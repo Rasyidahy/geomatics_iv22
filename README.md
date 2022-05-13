@@ -96,13 +96,32 @@ address_parser is an interactive shell. Just need to type addresses and libposta
 ![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
 
 # Assignment
+
 > **By full address**
-![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+> 
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/571bfb3a11d31c1bac6b127a9fb72e1d4710f050/result%201.png)
 
 > **By User input can contains incomplete address, mean each address component is optional**
-![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+> 
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/571bfb3a11d31c1bac6b127a9fb72e1d4710f050/result%202.png)
 
 > **By handle input without comma**
-![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/libpostal%20addresee_parser%20output.jpg)
+> 
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/571bfb3a11d31c1bac6b127a9fb72e1d4710f050/result%203.png)
+
+
+# References
+
+-**MSys2**: https://packages.msys2.org/queue
+
+-**Pypostal**: https://github.com/openvenues/pypostal
+
+-**Libpostal**: https://github.com/openvenues/libpostal
+
+-**Installation windows**: https://github.com/openvenues/libpostal#installation-windows
+
+-**Python**: https://www.w3schools.com/python/python_comments.asp
+
+-**Github doc**: https://docs.github.com/en
 
 
