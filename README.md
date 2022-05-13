@@ -97,6 +97,8 @@ address_parser is an interactive shell. Just need to type addresses and libposta
 
 # Assignment
 
+The task is develop a console program to tokenize a free form text into address components. For this assessment, I am currently using **libpostal**, **MSYS2**, **C** and **Python** for run the address.
+
 > **By full address**
 > 
 ![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/571bfb3a11d31c1bac6b127a9fb72e1d4710f050/result%201.png)
