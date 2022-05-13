@@ -1,5 +1,5 @@
 # geomatics_iv22
-Develop a console program to tokenize a free form text into address components. For this assessment, I am currently using **libpostal**, **MSYS**, **C** and **Python** for run the address.
+Develop a console program to tokenize a free form text into address components. For this assessment, I am currently using **libpostal**, **MSYS2**, **C** and **Python** for run the address.
 
 ![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/task%20geomatics.jpg)
 
@@ -9,8 +9,17 @@ For this assessment, i use open source tool libpostal to pare out tructured info
 # Installation (Windows)
 For window, i install the MSys2 from http://msys2.org. MSYS2 ("minimal system 2") is a software distribution and a development platform for Microsoft Windows, based on Mingw-w64 and Cygwin, that helps to deploy code from the Unix world on Windows. It plays the same role the old MSYS did in MinGW.
 
-![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/9ffd8f22ab87d9d98c2f1fcf09e52151ad41b906/task%20geomatics.jpg)
+![This is an image](https://github.com/Rasyidahy/geomatics_iv22/blob/35e09212ef118a86bbc82d800d60335f6ea48176/6759993.png)
 
+For running Msys2:
+```
+pacman -Syu
+```
+
+For install the following prerequisites:
+```
+pacman -S autoconf automake curl git make libtool gcc mingw-w64-x86_64-gcc
+```
 
 Then to build the C library for libpostal:
 ```
